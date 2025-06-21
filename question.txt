@@ -1,0 +1,22 @@
+Olá! Seu gestor, reconhecendo seu talento e curiosidade, confiou a você o conjunto de dados "Emissão_CO2_por_países.csv". Ele precisa que você prepare esses dados para análises mais aprofundadas e a criação de dashboards interativos, que serão uma ferramenta importante para a equipe de sustentabilidade e gestão de carbono da empresa.
+
+Sua missão:
+- Transforme os dados para o formato Parquet, que é mais eficiente para armazenamento e processamento.
+- Mostre como você faria para ler esse arquivo Parquet, demonstrando sua familiaridade com as ferramentas de análise de dados.
+- Apresente uma análise inicial da base de dados, mostrando a quantidade de "Kilotons of Co2" por "Region". Essa será a base para visualizações mais elaboradas.
+
+Desafio extra:
+Se você quiser ir além, explore os dados para identificar padrões interessantes, como os países que mais emitem CO2 ou as regiões com maior potencial de redução de emissões. Use sua criatividade para criar visualizações que ajudem a contar a história por trás dos dados!
+
+Entregáveis:
+- Um script em Python (.py) ou Jupyter Notebook (.ipynb) que seja executável, bem comentado e siga as melhores práticas de programação.
+- Uma demonstração clara de como você leu o arquivo Parquet e realizou a análise inicial dos dados.
+
+Recursos:
+- Sinta-se à vontade para usar as bibliotecas que você preferir (Pandas, PySpark, etc.) e explorar outras fontes de dados que possam enriquecer sua análise.
+
+Prazo
+2 dias úteis
+
+Observações
+Seu gestor valoriza sua capacidade de ir além do óbvio e encontrar soluções criativas para os desafios. Use sua curiosidade e conhecimento técnico para entregar um trabalho de alta qualidade!
